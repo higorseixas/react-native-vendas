@@ -7,4 +7,4 @@ const Input = ({ ...props }: InputProps) => {
   return <ContainerInput {...props} />
 }
 
-export default Input
+export default Input;
